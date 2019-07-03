@@ -11,7 +11,7 @@ namespace PersonHandler_Tests {
         private FileHandler _fh;
         private DataParser _dp;
 
-        private string csvPath = "/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/data.csv"; // change to appropriate path
+        private string csvPath = "//home/keags/Development/delegates_task/data.csv"; // change to appropriate path
         private List<List<string>> data;
 
         private List<Person> people;

@@ -8,10 +8,10 @@ namespace FileParserNetStandard_Tests {
     public class Tests {
         private FileHandler _fh;
         private DataParser _dp;
-        private string _csvPath = "///home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/data.csv";  // change to appropriate path
-        private string _tsvPath = "///home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/data.tsv";  // change to appropriate path
+        private string _csvPath = "///home/keags/Development/delegates_task/data.csv";  // change to appropriate path
+        private string _tsvPath = "///home/keags/Development/delegates_task/data.tsv";  // change to appropriate path
 
-        private string _writeFile = "//home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/dataWrite.txt";  // change to appropriate path
+        private string _writeFile = "///home/keags/Development/delegates_task/write.csv";  // change to appropriate path
        
         private List<List<string>> _data;
 

@@ -8,3 +8,13 @@
 /home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/Delegate_Exercise/obj/Debug/Delegate_Exercise.csproj.CopyComplete
 /home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/Delegate_Exercise/obj/Debug/Delegate_Exercise.exe
 /home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/Delegate_Exercise/obj/Debug/Delegate_Exercise.pdb
+/home/keags/Development/delegates_task/Delegate_Exercise/bin/Debug/Delegate_Exercise.exe
+/home/keags/Development/delegates_task/Delegate_Exercise/bin/Debug/Delegate_Exercise.pdb
+/home/keags/Development/delegates_task/Delegate_Exercise/bin/Debug/FileParserNetStandard.dll
+/home/keags/Development/delegates_task/Delegate_Exercise/bin/Debug/ObjectLibrary.dll
+/home/keags/Development/delegates_task/Delegate_Exercise/bin/Debug/FileParserNetStandard.pdb
+/home/keags/Development/delegates_task/Delegate_Exercise/obj/Debug/Delegate_Exercise.csprojAssemblyReference.cache
+/home/keags/Development/delegates_task/Delegate_Exercise/obj/Debug/Delegate_Exercise.csproj.CoreCompileInputs.cache
+/home/keags/Development/delegates_task/Delegate_Exercise/obj/Debug/Delegate_Exercise.csproj.CopyComplete
+/home/keags/Development/delegates_task/Delegate_Exercise/obj/Debug/Delegate_Exercise.exe
+/home/keags/Development/delegates_task/Delegate_Exercise/obj/Debug/Delegate_Exercise.pdb

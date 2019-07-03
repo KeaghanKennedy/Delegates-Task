@@ -12,8 +12,8 @@ namespace Delegate_Exercise {
     internal class Delegate_Exercise {
         public static void Main(string[] args)
         {
-            var filePath = "///home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/data.csv";
-            var writePath = "///home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/write.csv";
+            var filePath = "///home/keags/Development/delegates_task/data.csv";
+            var writePath = "///home/keags/Development/delegates_task/write.csv";
             
             var _ch = new CsvHandler();
             
