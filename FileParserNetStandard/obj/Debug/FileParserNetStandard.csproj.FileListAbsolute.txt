@@ -1,0 +1,8 @@
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/bin/Debug/FileParserNetStandard.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/bin/Debug/FileParserNetStandard.pdb
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/obj/Debug/FileParserNetStandard.csprojAssemblyReference.cache
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/obj/Debug/FileParserNetStandard.csproj.CoreCompileInputs.cache
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/obj/Debug/FileParserNetStandard.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/obj/Debug/FileParserNetStandard.pdb
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/bin/Debug/ObjectLibrary.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/FileParserNetStandard/obj/Debug/FileParserNetStandard.csproj.CopyComplete

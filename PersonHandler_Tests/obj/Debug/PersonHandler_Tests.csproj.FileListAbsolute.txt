@@ -1,0 +1,11 @@
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/obj/Debug/PersonHandler_Tests.csprojAssemblyReference.cache
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/obj/Debug/PersonHandler_Tests.csproj.CoreCompileInputs.cache
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/bin/Debug/PersonHandler_Tests.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/bin/Debug/PersonHandler_Tests.pdb
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/bin/Debug/FileParserNetStandard.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/bin/Debug/nunit.framework.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/bin/Debug/FileParserNetStandard.pdb
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/bin/Debug/nunit.framework.xml
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/obj/Debug/PersonHandler_Tests.csproj.CopyComplete
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/obj/Debug/PersonHandler_Tests.dll
+/home/keags/Dip-Seminar-Delegates-Lambda-Linq_Exercises/PersonHandler_Tests/obj/Debug/PersonHandler_Tests.pdb
